@@ -24,7 +24,7 @@ function App() {
         <IconButton size='large' edge='start' color='inherit' aria-label='logo' sx={{display:{xs:'none',md:'flex'}}}>
           <LocalLibraryIcon/>
         </IconButton>
-        <Typography variant='h6' component='div' sx={{flexGrow:1,display:{xs:'none',md:'flex'}}}>Management</Typography>
+        <Typography variant='h6' component='div' sx={{flexGrow:1,display:{xs:'none',md:'flex'}}}>managements</Typography>
         <Box sx={{display:{xs:'none',md:'flex'}}}>
           {/* <Button color='inherit'>Home</Button>
           <Button color='inherit'>Settings</Button>
